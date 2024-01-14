@@ -1,1 +1,1 @@
-sınav öncesi yatay açılır menü çalışmam
+ yatay açılır menü çalışmam
